@@ -14,22 +14,26 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Design Systems](https://img.shields.io/badge/Design%20Systems-FF6F61?style=for-the-badge&logo=storybook&logoColor=white)
 
-Soy **Frontend Developer** con conocimientos en **React, Javascript y Typescript**.  
-Me apasiona crear interfaces limpias, funcionales y con una experiencia de usuario intuitiva. Disfruto cuidar los detalles visuales y de usabilidad, asegurando que cada proyecto sea accesible, responsive y fácil de utilizar, sin perder de vista las buenas prácticas de desarrollo.  
 
-🌟 Además de lo técnico, valoro y disfruto mucho el trabajo en equipo.  
+## Soy **Frontend Developer** 
+Con conocimientos en **React, JavaScript y TypeScript.**
+Me apasiona crear interfaces limpias, funcionales y con una experiencia de usuario intuitiva.  
+Disfruto cuidar los detalles visuales y de usabilidad, asegurando que cada proyecto sea accesible, responsive y fácil de utilizar, sin perder de vista las buenas prácticas de desarrollo.
+  
+## 🌟 Además de lo técnico, valoro y disfruto mucho el trabajo en equipo.  
 Me destaco por mis habilidades de comunicación, adaptabilidad y resolución de problemas,  
 lo que me permite aprender rápido y aportar en entornos colaborativos.  
 También me gusta ayudar y compartir mis conocimientos cuando la situación lo requiere.
 
 ## ![Lautaro's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lautaro-Zarate&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lautaro-Zarate&layout=compact&theme=tokyonight)
 
-🌱 Aprendiendo más sobre:  
-- Redux Toolkit  
-- React Hook Form  
-- Mejores prácticas con TypeScript  
 
-💡 Me gusta organizar mis proyectos con buenas prácticas de arquitectura y documentación,  
-además de seguir mejorando mis soft skills colaborando en equipos y comunidades.  
+## 🤖 Además, me interesa mucho la **Inteligencia Artificial** y cómo funciona.  
+Es un tema que me gustaría **profundizar a futuro**, una vez que me especialice por completo en el frontend,  
+explorando cómo se crean modelos, cómo aprenden y cómo pueden aplicarse en proyectos reales.  
+Siempre buscando aprender y aplicar nuevas tecnologías en proyectos reales.
 
-📫 Puedes encontrarme en [LinkedIn](https://www.linkedin.com/) o escribirme por correo. 
+<img src="image-me.png" alt="Foto perfil" width="300" height="300"/>   
+
+📫 Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/lautaro-zaraterivas/). 
